@@ -143,6 +143,46 @@
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2118836119",
       "summary": "Designed convolutional and transformer networks for respiratory virus strain identification and biomolecule recognition, enabling portable virus detection devices."
     }
+    ,
+    {
+      "name": "Engineered 2D materials for optical bioimaging and path toward therapy and tissue engineering",
+      "publisher": "Journal of Materials Research",
+      "releaseDate": "2022-05-25",
+      "url": "https://link.springer.com/article/10.1557/s43578-022-00591-5"
+    }
+    ,
+    {
+      "name": "Raman spectroscopy on brain disorders: transition from fundamental research to clinical applications",
+      "publisher": "Biosensors",
+      "releaseDate": "2022-12-26",
+      "url": "https://www.mdpi.com/2079-6374/13/1/27"
+    }
+    ,
+    {
+      "name": "Unveiling brain disorders using liquid biopsy and Raman spectroscopy",
+      "publisher": "Nanoscale",
+      "releaseDate": "2024-05-25",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2024/nr/d4nr01413h"
+    }
+    ,
+    {
+      "name": "Optical Properties and Emerging Phenomena of Two-Dimensional Materials",
+      "publisher": "Novel Optical Materials",
+      "releaseDate": "2023-01-01",
+      "url": "https://www.worldscientific.com/doi/abs/10.1142/9789811280603_0001"
+    }
+    ,
+    {
+      "name": "Strain-Level Identification and Analysis of Avian Coronavirus Using Raman Spectroscopy and Interpretable Machine Learning",
+      "publisher": "2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)",
+      "releaseDate": "2023-04-18",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10230416"
+    }
+    ,
+    {
+      "name": "High-Dimensional Spectroscopy Analysis with Machine Learning Techniques",
+      "releaseDate": "2023-05-18"
+    }
   ],
   "skills": [
     {
