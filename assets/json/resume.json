@@ -182,6 +182,13 @@
     {
       "name": "High-Dimensional Spectroscopy Analysis with Machine Learning Techniques",
       "releaseDate": "2023-05-18"
+    },
+    {
+      "name": "Machine Learning Interpretation of Optical Spectroscopy Using Peak-Sensitive Logistic Regression",
+      "publisher": "ACS Nano",
+      "releaseDate": "2025-04-03",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
