@@ -186,9 +186,9 @@
     {
       "name": "Machine Learning Interpretation of Optical Spectroscopy Using Peak-Sensitive Logistic Regression",
       "publisher": "ACS Nano",
-      "releaseDate": "2025-04-03",
-      "url": "",
-      "summary": ""
+      "releaseDate": "2025-04-15",
+      "url": "https://pubs.acs.org/doi/full/10.1021/acsnano.4c16037",
+      "summary": "We developed PSE-LR, a peak-sensitive logistic regression algorithm optimized for spectral analysis, achieving high accuracy and interpretability in identifying subtle spectral features across diverse applications—from viral protein detection to Alzheimer’s biomarkers—while enabling the development of nanodevices and miniaturized spectrometers."
     }
   ],
   "skills": [
