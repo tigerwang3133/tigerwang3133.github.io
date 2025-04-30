@@ -5,11 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - tigerwang3133/ReflectoNet
-<<<<<<< HEAD
   - tigerwang3133/PSE_LR  
-=======
-  - tigerwang3133/PSE-LR  
->>>>>>> 5711f69dee6dcaf1f95dcbbf40abc6b662172e35
   - tigerwang3133/Accurate-Virus-Identification-with-Interpretable-Raman-Signatures-by-Machine-Learning-
   - tigerwang3133/wdf_extract_package
   - tigerwang3133/cfnet
