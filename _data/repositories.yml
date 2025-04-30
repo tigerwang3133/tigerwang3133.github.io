@@ -5,8 +5,8 @@ repo_description_lines_max: 2
 
 github_repos:
   - tigerwang3133/ReflectoNet
+  - tigerwang3133/PSE-LR  
   - tigerwang3133/Accurate-Virus-Identification-with-Interpretable-Raman-Signatures-by-Machine-Learning-
-  - tigerwang3133/MLLR
   - tigerwang3133/wdf_extract_package
   - tigerwang3133/cfnet
   - tigerwang3133/PPO-Mario-Bros-Tensorflow-2
