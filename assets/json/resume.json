@@ -198,9 +198,15 @@
     },
     {
       "name": "Machine Learning Integrated Near-Infrared Surface-Enhanced Raman Spectroscopy for Accurate Strain-Level Virus Identification",
-      "publisher": "arXiv ",
+      "publisher": "arXiv",
       "releaseDate": "2025-09-11",
       "url": "https://arxiv.org/abs/2509.09851"
+    },
+    {
+      "name": "Manufacturing Chip-Scale 2D Monolayer Single Crystals through Wafer-Bonder-Assisted Transfer",
+      "publisher": "Nano Letters",
+      "releaseDate": "2025-09-23",
+      "url": "https://doi.org/10.1021/acs.nanolett.5c03755"
     }
   ],
   "skills": [
