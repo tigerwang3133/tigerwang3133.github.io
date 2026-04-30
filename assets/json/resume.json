@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Ziyang Wang",
-    "label": "Ph.D. Candidate",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "Ziyang.Wang@rice.edu",
+    "email": "tigerwang3133@gmail.com",
     "url": "https://tigerwang3133.github.io/",
-    "summary": "Ph.D. Candidate at Rice University, interesting in machine learning for biomedical and material sciences",
+    "summary": "Postdoctoral Researcher at Rice University, interesting in machine learning for biomedical and material sciences",
     "location": {
       "address": "331 Brockman Hall for Physics, 6100 Main St",
       "postalCode": "TX 77005",
@@ -17,10 +17,19 @@
   "work": [
     {
       "name": "ScopeLab, Rice University",
+      "position": "Postdoctoral Researcher",
+      "url": "https://scopelab.rice.edu/",
+      "startDate": "2026-05-01",
+      "endDate": "2026-09-01",
+      "summary": "Developed innovative machine learning and deep learning platforms integrating Raman spectroscopy, 2D materials, and advanced algorithms to enhance biomarker detection, optical characterization, virus identification, and cancer diagnosis, achieving significant breakthroughs in Alzheimer’s and pancreatic cancer research, with multiple publications, awards, and ongoing clinical collaborations.",
+      "highlights": ["Artificial intelligence, Machine learning, Biomolecule and disease sensing, Materials design, Hyperspectral imaging"]
+    },
+    {
+      "name": "ScopeLab, Rice University",
       "position": "Research Assistant",
       "url": "https://scopelab.rice.edu/",
       "startDate": "2020-08-01",
-      "endDate": "2025-05-01",
+      "endDate": "2026-05-01",
       "summary": "Developed innovative machine learning and deep learning platforms integrating Raman spectroscopy, 2D materials, and advanced algorithms to enhance biomarker detection, optical characterization, virus identification, and cancer diagnosis, achieving significant breakthroughs in Alzheimer’s and pancreatic cancer research, with multiple publications, awards, and ongoing clinical collaborations.",
       "highlights": ["Artificial intelligence, Machine learning, Biomolecule and disease sensing, Materials design, Hyperspectral imaging"]
     },
@@ -51,7 +60,7 @@
       "area": "Electrical and Computer Engineering",
       "studyType": "Ph.D.",
       "startDate": "2020-08-01",
-      "endDate": "2025-06-01"
+      "endDate": "2026-05-01"
     },
     {
       "institution": "The Pennsylvania State University",
