@@ -223,6 +223,12 @@
       "publisher": "ACS Sensors",
       "releaseDate": "2026-03-05",
       "url": "https://pubs.acs.org/doi/10.1021/acssensors.5c03074"
+    },
+    {
+      "name": "ReflectoRNN: AI-Enabled In-Operando Optical Reflectometry for Evolving Materials Using a Recurrent Neural Network",
+      "publisher": "ACS Nano",
+      "releaseDate": "2026-05-31",
+      "url": "https://doi.org/10.1021/acsnano.6c04315"
     }
   ],
   "skills": [
